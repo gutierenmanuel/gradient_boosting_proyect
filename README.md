@@ -1,6 +1,6 @@
-# TITLE PROYECT
+# Gradient Boosting Model for Diabetes Prediction
 
-explanation of the github project
+This repository contains the code and resources related to building and evaluating a Gradient Boosting model for predicting diabetes on a specific dataset. This project is the third with this data set, the previous ones being: https://github.com/gutierenmanuel/decission_tree_proyect and https://github.com/gutierenmanuel/random_forest_proyect
 
 ## Content
 
@@ -12,10 +12,7 @@ explanation of the github project
 
 ## Usage
 
-use or tutorial of the project
-
-## Examples
-
+Open the `/src` folder and explore the `src/06_gradient_boosting_develop.ipynb` file.
 
 
 ## Project Structure
